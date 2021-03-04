@@ -8,3 +8,4 @@ For pulling with conf
 Some things
 for tags
 for rebase: here will rebase
+for cherry-pick
