@@ -6,3 +6,4 @@ For merging without conf
 For pulling without conf
 For pulling with conf
 Some things
+for tags
