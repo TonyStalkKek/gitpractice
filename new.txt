@@ -1,4 +1,5 @@
 For the first commit
 For first commit in develop branch
-
 For merging without conf develop branch
+For the first commit in hotfix branch
+For merging without conf
