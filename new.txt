@@ -4,3 +4,4 @@ For merging without conf develop branch
 For the first commit in hotfix branch
 For merging without conf
 For pulling without conf
+For pulling with conf
